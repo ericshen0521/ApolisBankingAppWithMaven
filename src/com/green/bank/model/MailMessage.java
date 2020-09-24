@@ -1,8 +1,8 @@
 package com.green.bank.model;
 
-//import lombok.Data;
+import lombok.Data;
 
-//@Data
+@Data
 public class MailMessage {
 	String host;
 	String to;
