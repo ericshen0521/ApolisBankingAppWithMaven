@@ -1,7 +1,0 @@
-organization=ericshen0521
-projectKey=ericshen0521_ApolisBankingAppWithMaven
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.12450
-dashboardUrl=https://sonarcloud.io/dashboard?id=ericshen0521_ApolisBankingAppWithMaven
-ceTaskId=AXS9rbJb3n6AHJ0tjINS
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXS9rbJb3n6AHJ0tjINS
